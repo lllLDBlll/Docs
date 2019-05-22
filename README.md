@@ -1,6 +1,7 @@
 # Docs
 Repository to document useful softwares and applications for me
 
+## GIT
 ### Read the Docs: Documentation Simplified
 - Sphinx
 - MkDocs
@@ -9,3 +10,7 @@ Repository to document useful softwares and applications for me
 - https://docs.readthedocs.io/en/stable/index.html
 - https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages
 - https://guides.github.com/features/wikis/
+
+## WEB
+#### Links:
+- http://www.json2html.com/
