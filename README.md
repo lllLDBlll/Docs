@@ -14,3 +14,9 @@ Repository to document useful softwares and applications for me
 ## WEB
 #### Links:
 - http://www.json2html.com/
+- Heroku - API
+- Netlify - Backend (Gerenciamento de Projetos) linka com GitHub
+- Surge - Páginas Estáticas Upload
+- Express JS - Local or Not
+- Robot - Client para MongoDB Banco de Dados SQL
+- Docz - Documentar Biblioteca JS
