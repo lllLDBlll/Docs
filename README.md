@@ -1,6 +1,8 @@
 # Docs
 Repository to document useful softwares and applications for me
 
+## Linux
+* Peek - an animated GIF recorder [https://github.com/phw/peek](https://github.com/phw/peek)
 ## GIT
 ### Read the Docs: Documentation Simplified
 - Sphinx
