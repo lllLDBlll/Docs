@@ -1,3 +1,5 @@
+https://education.github.com/pack/offers?utm_source=newsletter&utm_medium=email&utm_campaign=student-newsletter-082019
+
 # Docs
 Repository to document useful softwares and applications for me
 
