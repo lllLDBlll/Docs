@@ -25,3 +25,8 @@ Repository to document useful softwares and applications for me
 - Express JS - Local or Not
 - Robot - Client para MongoDB Banco de Dados SQL
 - Docz - Documentar Biblioteca JS
+
+To organize:
+https://wavedrom.com/
+https://graphviz.org/
+https://kafka.apache.org/
