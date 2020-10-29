@@ -16,18 +16,28 @@ Repository to document useful softwares and applications for me
 - https://guides.github.com/features/wikis/
 
 ## WEB
-#### Links:
-- http://www.json2html.com/
-- https://emoncms.org/
-- Heroku - API
-- Netlify - Backend (Gerenciamento de Projetos) linka com GitHub
-- Surge - Páginas Estáticas Upload
-- Express JS - Local or Not
-- Robot - Client para MongoDB Banco de Dados SQL
-- Docz - Documentar Biblioteca JS
+- [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+### Apps
+- [Emoncms](https://emoncms.org/)
+- [Docz](https://www.docz.site/)
+- [WaveDrom](https://wavedrom.com/)
+### Frameworks
+- [Express JS](https://expressjs.com/)
+### Libraries
+- [Json2HTML](http://www.json2html.com/)
+### Platforms
+- [Heroku](https://www.heroku.com/)
+- [Netlify](https://www.netlify.com/)
+- [Surge](https://surge.sh/)
+- [Apache Kafka](https://kafka.apache.org/)
+- [Robo 3T](https://robomongo.org/)
+<p> Client para MongoDB Banco de Dados SQL
+
+## Tools
+- [Graphviz](https://graphviz.org/)
+- [Gnuplot](http://gnuplot.respawned.com/)
 
 To organize:
-https://wavedrom.com/
-https://graphviz.org/
-https://kafka.apache.org/
-http://gnuplot.respawned.com/
+- [Model](model)
+- [Model](model)
+
