@@ -40,4 +40,5 @@ Repository to document useful softwares and applications for me
 To organize:
 - [Model](model)
 - [Model](model)
-
+https://www.djangoproject.com/
+https://flask.palletsprojects.com/en/1.1.x/
