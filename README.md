@@ -42,3 +42,6 @@ To organize:
 - [Model](model)
 https://www.djangoproject.com/
 https://flask.palletsprojects.com/en/1.1.x/
+
+  https://www.electronjs.org/
+  
